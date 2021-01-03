@@ -13,3 +13,6 @@ FireBase Database Schema
 
 <img src="https://j.gifs.com/VAX30X.gif" width="500" height="600" />
 
+
+
+<img src="https://j.gifs.com/jZzpLP.gif" width="500" height="600" />

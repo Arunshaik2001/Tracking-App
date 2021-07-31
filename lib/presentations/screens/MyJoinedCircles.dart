@@ -1,8 +1,8 @@
 import 'package:cloud_firestore/cloud_firestore.dart';
 import 'package:flutter/material.dart';
-import 'package:tracking_app/AuthenticationService.dart';
+import 'package:tracking_app/services/AuthenticationService.dart';
 import 'package:provider/provider.dart';
-import 'package:tracking_app/home_page.dart';
+import 'package:tracking_app/presentations/screens/home_page.dart';
 
 class JoinedCircles extends StatefulWidget {
   final String _secretCode;

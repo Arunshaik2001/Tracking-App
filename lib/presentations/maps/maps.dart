@@ -6,7 +6,7 @@ import 'package:flutter/services.dart';
 import 'package:google_maps_flutter/google_maps_flutter.dart';
 import 'package:location/location.dart';
 import 'package:provider/provider.dart';
-import 'package:tracking_app/AuthenticationService.dart';
+import 'package:tracking_app/services/AuthenticationService.dart';
 
 class Maps extends StatefulWidget {
   final String secretCode;

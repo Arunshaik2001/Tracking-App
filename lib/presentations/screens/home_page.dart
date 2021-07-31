@@ -3,13 +3,13 @@ import 'package:firebase_auth/firebase_auth.dart';
 import 'package:flutter/material.dart';
 import 'package:location/location.dart';
 import 'package:toast/toast.dart';
-import 'package:tracking_app/AuthenticationService.dart';
+import 'package:tracking_app/services/AuthenticationService.dart';
 import 'package:provider/provider.dart';
-import 'package:tracking_app/FlipperWidget.dart';
-import 'package:tracking_app/GlobalVariables.dart';
-import 'package:tracking_app/MyJoinedCircles.dart';
-import 'package:tracking_app/maps.dart';
-import 'package:tracking_app/sign_in.dart';
+import 'package:tracking_app/presentations/animations/FlipperWidget.dart';
+import 'package:tracking_app/common/GlobalVariables.dart';
+import 'package:tracking_app/presentations/screens/MyJoinedCircles.dart';
+import 'package:tracking_app/presentations/maps/maps.dart';
+import 'package:tracking_app/presentations/screens/sign_in.dart';
 
 class HomePage extends StatefulWidget {
   @override

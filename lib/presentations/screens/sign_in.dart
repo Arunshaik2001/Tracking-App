@@ -3,9 +3,9 @@ import 'package:firebase_auth/firebase_auth.dart';
 import 'package:flutter/material.dart';
 import 'dart:math' as Math;
 import 'package:toast/toast.dart';
-import 'package:tracking_app/AuthenticationService.dart';
-import 'package:tracking_app/GlobalVariables.dart';
-import 'fade_animations.dart';
+import 'package:tracking_app/services/AuthenticationService.dart';
+import 'package:tracking_app/common/GlobalVariables.dart';
+import '../animations/fade_animations.dart';
 import 'package:provider/provider.dart';
 
 class SignInPage extends StatefulWidget {

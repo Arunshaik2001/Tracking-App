@@ -3,10 +3,10 @@ import 'package:firebase_auth/firebase_auth.dart';
 import 'package:firebase_core/firebase_core.dart';
 import 'package:flutter/material.dart';
 import 'package:provider/provider.dart';
-import 'package:tracking_app/AuthenticationService.dart';
-import 'package:tracking_app/sign_in.dart';
+import 'package:tracking_app/services/AuthenticationService.dart';
+import 'package:tracking_app/presentations/screens/sign_in.dart';
 
-import 'home_page.dart';
+import 'presentations/screens/home_page.dart';
 
 Future<void> main() async{
   WidgetsFlutterBinding.ensureInitialized();

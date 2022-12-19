@@ -2,7 +2,7 @@
 
 FireBase Database Schema:
 
-<img src=https://user-images.githubusercontent.com/50947867/103487932-d55c7300-4e2e-11eb-88d0-4872c5af195f.png height = 400px />
+<img src=https://user-images.githubusercontent.com/50947867/103487932-d55c7300-4e2e-11eb-88d0-4872c5af195f.png height = 200px />
 
 
 
